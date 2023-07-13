@@ -58,7 +58,7 @@ function App({ complist, update_list }) {
         <AppBar position="static">
           <Toolbar>
             <Typography variant="h6" className={classes.title}>
-              MIT Scratch Clone
+              My MIT Scratch
             </Typography>
             <Button color="inherit">
               <GitHubIcon
